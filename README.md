@@ -28,7 +28,7 @@ Takım 30
 
 - Backlog, scrum örneğindeki gibi Miro Board kullanılarak yapılacak işlere (task'lere) bölünmüştür. Miro Board Adresi : https://miro.com/app/board/uXjVO2CRsYo=/
 
-Daily Scrum: Daily scrumlar discord voicechat üzerinden, organizasyonu WhatsApp Web üzerinden gerçekleşmektedir. Organizasyon ve not screenshotlarına aşağıda yer verilmiştir.
+Daily Scrum: Daily scrumlar discord voicechat üzerinden, organizasyonu WhatsApp Web üzerinden gerçekleşmektedir. Organizasyon ve toplantı notu screenshotlarına Miro Board'da yer verilmiştir.
 
 Ürün Durumu: Ürünün konsepti üzerinde fikir birliğine varılmış, player controller scriptleri, crafting modülü prototipi ve temel karakter artı tamamlanmıştır. 
 
