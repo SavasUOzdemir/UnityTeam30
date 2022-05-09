@@ -30,7 +30,7 @@ Takım 30
 
 Daily Scrum: Daily scrumlar discord voicechat üzerinden, organizasyonu WhatsApp Web üzerinden gerçekleşmektedir. Organizasyon ve not screenshotlarına aşağıda yer verilmiştir.
 
-Ürün Durumu: 
+Ürün Durumu: Ürünün konsepti üzerinde fikir birliğine varılmış, player controller scriptleri, crafting modülü prototipi ve temel karakter artı tamamlanmıştır. 
 
 - Sprint Review - Sprint Retrospective:
 
