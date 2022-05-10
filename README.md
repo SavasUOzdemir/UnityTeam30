@@ -32,6 +32,12 @@ Takım 30
 - Eğitim kurumları
 - Kediseverler
 
+## Product Backlog URL
+[Miro Backlog Board](https://miro.com/app/board/uXjVO2CRsYo=/)
+
+## Product Backlog Puanlama Metodolojisi 
+[Netsolutions](https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/) proje tahmin metodolojilerinden "T-Shirt Size Estimation" modeli tercih edilmiş, discord üzerinden şifahen oylanmıştır.
+
 ## Sprint 1
 - Sprint Notları: Ürün ideation'u ve planlaması yapılmış, ürün konsepti yazılmıştır. Ürün konseptine erişim için: https://docs.google.com/document/d/1s45Q_a0DeZdZTJ7VVapeChzr_555lBrgC5dFzY1sef4/edit
 
@@ -39,7 +45,7 @@ Takım 30
 
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. İlk sprintin bayram dönemine denk gelmesinden ötürü ilk sprinte 50, diğerlerine 100'er puanlık backlog atandı. 
 
-- Backlog, scrum örneğindeki gibi Miro Board kullanılarak yapılacak işlere (task'lere) bölünmüştür. Miro Board Adresi : https://miro.com/app/board/uXjVO2CRsYo=/
+- Backlog, scrum örneğindeki gibi Miro Board kullanılarak yapılacak işlere (task'lere) bölünmüştür. Yukarıdaki Miro Board adresinde görevler görülebilir.
 
 Daily Scrum: Daily scrumlar discord voicechat üzerinden, organizasyonu WhatsApp Web üzerinden gerçekleşmektedir. Organizasyon ve toplantı notu screenshotlarına Miro Board'da yer verilmiştir.
 
