@@ -13,11 +13,24 @@ Takım 30
 - Kenan Eren Ayyılmaz: Team Member/Developer
 ## Ürün İsmi
 
---2D Biyoloji-Puzzle Oyunu--
+Ürünün placeholder ismi Farmland olarak belirlenmiştir. 
 
 ## Ürün Açıklaması
 
-- İlkokul ve sonrası çağdaki kullanıcıların biyoloji özelinde, doğadaki döngüleri öğrenip anlayabilmesini destekleyecek bir puzzle oyunu. Bulmacalar görsel programlama metotlarıyla çözülecek olup, kitabi bilgiyle oyunu heyecan verici kılacak bir hikaye akışı da eşlik edecek. 
+- Farmland, kullanıcıların crafting sistemi çerçevesinde tarlalarda tarımsal ürün yetiştirip puan kazanacağı bir oyundur. Farmland'deki temel puan tipi 'kedi'dir, edinebileceğimiz kedi sayısını maksimize etmek oyunun görünen amacı olup, ürünün amacı okul çağındaki kullanıcılara eğlenceli bir şekilde tarımsal ürünleri ve tarımda kullanılan metotları tanıtmaktır.
+
+## Ürün Özellikleri
+- Side-scroller oyun stili ancak büyük ölçüde Y ekseninde 'scroll' edilmesi
+- Bitkilerin çeşitli aşamalardaki ihtiyaçlarını ve bu ihtiyaçların karşılanmasıyla ürün elde edilmesini içeren bir "tarım" crafting modülü
+- Çeşitli süreçleri otomatikleştirme ya da çeşitli yeni özellikleri açmayı içeren bir kedi okulu, "aKEDİmi" (clicker oyunlarının upgrade mekaniklerine benzer)
+- Hedef kitlenin hoşuna gidecek cute-handdrawn artstyle
+
+## Hedef Kitle
+- 8-15 yaş arası okul çağı çocuklar
+- Gamerlar
+- Tarımla ilgilenenler
+- Eğitim kurumları
+- Kediseverler
 
 ## Sprint 1
 - Sprint Notları: Ürün ideation'u ve planlaması yapılmış, ürün konsepti yazılmıştır. Ürün konseptine erişim için: https://docs.google.com/document/d/1s45Q_a0DeZdZTJ7VVapeChzr_555lBrgC5dFzY1sef4/edit
