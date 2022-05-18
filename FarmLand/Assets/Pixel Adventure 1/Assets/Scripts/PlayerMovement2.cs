@@ -31,9 +31,9 @@ public class PlayerMovement2 : MonoBehaviour
 
     private void sinirlandirma ()
     {
-        if (transform.position.x < -10f)
+        if (transform.position.x < -8.25f)
         {
-            transform.position = new Vector2 (-10f, transform.position.y);
+            transform.position = new Vector2 (-8.25f, transform.position.y);
         }
     }
 }
