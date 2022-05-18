@@ -15,7 +15,7 @@ C:/Users/onrba/Desktop/Oyun Geliştirme/FarmLand
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57367
+55208
 Successfully changed project path to: C:/Users/onrba/Desktop/Oyun Geliştirme/FarmLand
 C:/Users/onrba/Desktop/Oyun Geliştirme/FarmLand
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/onrba/Desktop/Oyun Geliştirme/FarmLand
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 215.46 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 333.74 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.1f1 (3b70a0754835)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.1f1/Editor/Data/Resources/UnitySubsystems
@@ -63,90 +63,90 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56836
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.011590 seconds.
+Registered in 0.020383 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 201.41 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1596.55 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.722 seconds
+- Completed reload, in 10.505 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1723ms)
-		BeginReloadAssembly (162ms)
+	ReloadAssembly (10506ms)
+		BeginReloadAssembly (192ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (3ms)
-		EndReloadAssembly (941ms)
-			LoadAssemblies (156ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (9954ms)
+			LoadAssemblies (186ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (199ms)
+			SetupTypeCache (1876ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (73ms)
-			SetupLoadedEditorAssemblies (562ms)
+			RebuildScriptCaches (3695ms)
+			SetupLoadedEditorAssemblies (2955ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (201ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (248ms)
-				ProcessInitializeOnLoadMethodAttributes (92ms)
+				InitializePlatformSupportModulesInManaged (279ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1597ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (931ms)
+				ProcessInitializeOnLoadMethodAttributes (139ms)
 				AfterProcessingInitializeOnLoad (0ms)
-				EditorAssembliesLoaded (1ms)
+				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.011447 seconds.
+Registered in 0.026512 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 231.12 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 432.47 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.046 seconds
+- Completed reload, in  3.646 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3047ms)
-		BeginReloadAssembly (273ms)
+	ReloadAssembly (3648ms)
+		BeginReloadAssembly (256ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (11ms)
+			DisableScriptedObjects (17ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (33ms)
-		EndReloadAssembly (2487ms)
-			LoadAssemblies (236ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (3126ms)
+			LoadAssemblies (197ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (595ms)
+			SetupTypeCache (760ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (160ms)
-			SetupLoadedEditorAssemblies (1373ms)
+			RebuildScriptCaches (155ms)
+			SetupLoadedEditorAssemblies (1850ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (19ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (231ms)
-				BeforeProcessingInitializeOnLoad (218ms)
-				ProcessInitializeOnLoadAttributes (817ms)
-				ProcessInitializeOnLoadMethodAttributes (85ms)
-				AfterProcessingInitializeOnLoad (13ms)
+				RefreshPlugins (433ms)
+				BeforeProcessingInitializeOnLoad (238ms)
+				ProcessInitializeOnLoadAttributes (769ms)
+				ProcessInitializeOnLoadMethodAttributes (325ms)
+				AfterProcessingInitializeOnLoad (65ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
+			AwakeInstancesAfterBackupRestoration (39ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
-Refreshing native plugins compatible for Editor in 1.96 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.29 seconds
+Refreshing native plugins compatible for Editor in 1.47 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3931 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 40 unused Assets / (225.5 KB). Loaded Objects now: 4385.
-Memory consumption went from 149.5 MB to 149.3 MB.
-Total: 6.753900 ms (FindLiveObjects: 0.353300 ms CreateObjectMapping: 0.240900 ms MarkObjects: 5.965400 ms  DeleteObjects: 0.193000 ms)
+Unloading 3933 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (225.3 KB). Loaded Objects now: 4387.
+Memory consumption went from 149.6 MB to 149.4 MB.
+Total: 23.021400 ms (FindLiveObjects: 4.674000 ms CreateObjectMapping: 3.485600 ms MarkObjects: 14.581800 ms  DeleteObjects: 0.277400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -160,13 +160,823 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 637284.588769 seconds.
-  path: Assets/Pixel Adventure 1/Assets/Terrain/Terrain Sliced (16x16).png
-  artifactKey: Guid(fc584d329b77b9545b9c9c8bb829e553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pixel Adventure 1/Assets/Terrain/Terrain Sliced (16x16).png using Guid(fc584d329b77b9545b9c9c8bb829e553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce0c8c2f5f98bad2a1c034ac9ccccaf') in 1.079078 seconds 
+  Time since last request: 643427.991602 seconds.
+  path: Assets/Scripts/uiHover.cs
+  artifactKey: Guid(aab9789f909ee384bb456b48b604c3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/uiHover.cs using Guid(aab9789f909ee384bb456b48b604c3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdc78bfe77831894ec54b8a1f8b54ed6') in 0.159857 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013861 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.559 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6561ms)
+		BeginReloadAssembly (791ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (33ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (207ms)
+		EndReloadAssembly (5201ms)
+			LoadAssemblies (576ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (1844ms)
+			ReleaseScriptCaches (6ms)
+			RebuildScriptCaches (507ms)
+			SetupLoadedEditorAssemblies (2074ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (74ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (533ms)
+				ProcessInitializeOnLoadAttributes (1218ms)
+				ProcessInitializeOnLoadMethodAttributes (194ms)
+				AfterProcessingInitializeOnLoad (47ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (38ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 14.54 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3915 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (192.7 KB). Loaded Objects now: 4390.
+Memory consumption went from 148.3 MB to 148.1 MB.
+Total: 11.914500 ms (FindLiveObjects: 1.842300 ms CreateObjectMapping: 0.489100 ms MarkObjects: 6.995400 ms  DeleteObjects: 2.585400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015558 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.78 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.143 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5145ms)
+		BeginReloadAssembly (569ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (36ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (171ms)
+		EndReloadAssembly (4010ms)
+			LoadAssemblies (382ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1192ms)
+			ReleaseScriptCaches (9ms)
+			RebuildScriptCaches (283ms)
+			SetupLoadedEditorAssemblies (1877ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (61ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (418ms)
+				ProcessInitializeOnLoadAttributes (1092ms)
+				ProcessInitializeOnLoadMethodAttributes (208ms)
+				AfterProcessingInitializeOnLoad (87ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (42ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.01 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3915 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (192.6 KB). Loaded Objects now: 4393.
+Memory consumption went from 148.3 MB to 148.1 MB.
+Total: 12.661600 ms (FindLiveObjects: 0.457500 ms CreateObjectMapping: 0.509500 ms MarkObjects: 11.148600 ms  DeleteObjects: 0.543800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 678.195512 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Scripts/PlotManager.cs
+  artifactKey: Guid(df0efec2701ce22468b59e47b3eed626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Scripts/PlotManager.cs using Guid(df0efec2701ce22468b59e47b3eed626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '835c87e3be0a56ee4158614c737f3252') in 0.043354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 163.775027 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items
+  artifactKey: Guid(45aa8edc5710be2418fa949495904348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items using Guid(45aa8edc5710be2418fa949495904348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '558407e5991d9bafb3217e36cc9db8ba') in 0.028322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.266194 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Other
+  artifactKey: Guid(9b265bbeade4a16468dc117cf3b94dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Other using Guid(9b265bbeade4a16468dc117cf3b94dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c654232f32b9ce5ed8e5f121dbe1e0') in 0.049528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.586825 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Terrain
+  artifactKey: Guid(981bfd6ae2b036145b5cc80be601e4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Terrain using Guid(981bfd6ae2b036145b5cc80be601e4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0bdcb728a3d2fb32188bbc96711e10a') in 0.030446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.983271 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Fruits
+  artifactKey: Guid(d8c3b8ef4ce4d06449ed14a7e7f164fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Fruits using Guid(d8c3b8ef4ce4d06449ed14a7e7f164fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e59cc0899bab3a01ad5e4b5a5b1c5b') in 0.018844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022180 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Fruits/Apple.png
+  artifactKey: Guid(1ddc9afd21fec77489b1248d18f31b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Fruits/Apple.png using Guid(1ddc9afd21fec77489b1248d18f31b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be33d2646e18143a65eb229267596428') in 0.271124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Fruits/Melon.png
+  artifactKey: Guid(031678d507e557a41b7a16fc33bf6c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Fruits/Melon.png using Guid(031678d507e557a41b7a16fc33bf6c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23cd785a146bf483a3fe59c2c3ec155f') in 0.128262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Fruits/Bananas.png
+  artifactKey: Guid(b1f24b3bc2e2f1d4b858657ad5c115a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Fruits/Bananas.png using Guid(b1f24b3bc2e2f1d4b858657ad5c115a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f668586d0a48e9926db5825205f09a') in 0.149869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Fruits/Strawberry.png
+  artifactKey: Guid(a2c110585eb710b408972fbc3b96136d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Fruits/Strawberry.png using Guid(a2c110585eb710b408972fbc3b96136d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48cb9a3135b8acbe23026576c065b066') in 0.145725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Fruits/Kiwi.png
+  artifactKey: Guid(5100b75572e484e458e4340e2afe9454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Fruits/Kiwi.png using Guid(5100b75572e484e458e4340e2afe9454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197ef28ca81b0c7ff65a5ed080715ac3') in 0.132121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Fruits/Collected.png
+  artifactKey: Guid(be1a5bd13766ec048bab6f4c578baa0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Fruits/Collected.png using Guid(be1a5bd13766ec048bab6f4c578baa0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66630df1e84933c6ec1608b78f3285ed') in 0.131990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Fruits/Pineapple.png
+  artifactKey: Guid(131e485692e27e84c86170dad18cda85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Fruits/Pineapple.png using Guid(131e485692e27e84c86170dad18cda85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f804383346b6a12c719ceb00c74aa5a5') in 0.199908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Fruits/Cherries.png
+  artifactKey: Guid(3d6be91968cb95546ac95aeff5e52f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Fruits/Cherries.png using Guid(3d6be91968cb95546ac95aeff5e52f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e655316e29d1fb8a42e71b30f8e979') in 0.125493 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000039 seconds.
-  path: Assets/Pixel Adventure 1/Assets/Terrain/Terrain (16x16) 1.png
-  artifactKey: Guid(413986c4a668c374d8de72a47621b531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pixel Adventure 1/Assets/Terrain/Terrain (16x16) 1.png using Guid(413986c4a668c374d8de72a47621b531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119beaa4eea0e475f40d769b4b610b2b') in 0.036373 seconds 
+  path: Assets/Pixel Adventure 1/Assets/Items/Fruits/Orange.png
+  artifactKey: Guid(ffc9f271fad56c243a45f100b9dc6778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Fruits/Orange.png using Guid(ffc9f271fad56c243a45f100b9dc6778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486569373c3bf4fe0096888a88a87763') in 0.155567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.814928 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Background/Green.png
+  artifactKey: Guid(2538710101d0f1f4e8976b3495cd1f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Background/Green.png using Guid(2538710101d0f1f4e8976b3495cd1f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b575a8e1a76e02c52d0b5e3de22d72a6') in 0.030966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.122094 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/New Palette.prefab
+  artifactKey: Guid(afd0a62bc5ebed54695ad73d993850a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/New Palette.prefab using Guid(afd0a62bc5ebed54695ad73d993850a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45883ada853883ac19ce3457dc8727df') in 0.193999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_8.asset
+  artifactKey: Guid(b1eacfd2951554f48ad77d79e7e59736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_8.asset using Guid(b1eacfd2951554f48ad77d79e7e59736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89097a991c1fb4c0a271e25d37aa99f') in 0.040343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_24.asset
+  artifactKey: Guid(6e8f8009c044d84408893c33d36fc368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_24.asset using Guid(6e8f8009c044d84408893c33d36fc368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a25080d573ede2bf2b1b9a6bf3c5395') in 0.037003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_6.asset
+  artifactKey: Guid(ed5a3e78d75c5b3439371ed7d3b9fbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_6.asset using Guid(ed5a3e78d75c5b3439371ed7d3b9fbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a86571e2251f25f2dee3ddfa56cf754') in 0.031280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_7.asset
+  artifactKey: Guid(b3e22bce1c2918b46a8c3a25351807d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_7.asset using Guid(b3e22bce1c2918b46a8c3a25351807d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f9b42c471a272cf0352aac2323a2cd4') in 0.041954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_21.asset
+  artifactKey: Guid(350d7c5964688994bb35bbb5da443cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_21.asset using Guid(350d7c5964688994bb35bbb5da443cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad395540261ea806e2858f49694f14b') in 0.039925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_28.asset
+  artifactKey: Guid(ca3772458697bb44a85e1d076649b4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_28.asset using Guid(ca3772458697bb44a85e1d076649b4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1dc91305c76bcd7f0392a1efdaf08e3') in 0.066618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_16.asset
+  artifactKey: Guid(1206b8b30803c084d88d5bfb3042aefa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_16.asset using Guid(1206b8b30803c084d88d5bfb3042aefa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d2735dc84e1a8489225f05d8bbb80e0') in 0.040546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_0.asset
+  artifactKey: Guid(2de50bfec7162bd41a7160950304b272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_0.asset using Guid(2de50bfec7162bd41a7160950304b272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c837c86a963269777265766e18a66e') in 0.041580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_19.asset
+  artifactKey: Guid(d3261406269bff24c8cf6304754ff44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_19.asset using Guid(d3261406269bff24c8cf6304754ff44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e624cdabcd6023ea7c959ebb259221a0') in 0.034223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_4.asset
+  artifactKey: Guid(72323ead9d5a89744b12dfe6c1a5377f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_4.asset using Guid(72323ead9d5a89744b12dfe6c1a5377f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb97e44bae640fabdc608c27b77f26e') in 0.032256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_29.asset
+  artifactKey: Guid(1015207d0684b00419ebe16e34ed2482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_29.asset using Guid(1015207d0684b00419ebe16e34ed2482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d2f26bd313d037c8ec24b8c858bb30') in 0.042160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_2.asset
+  artifactKey: Guid(7011454b4d9df634b94ff9fa08a4e738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_2.asset using Guid(7011454b4d9df634b94ff9fa08a4e738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3635e9fb41deb9b386a2a472b001df') in 0.040620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_26.asset
+  artifactKey: Guid(18a455d5ae4afbe439ff332a7dadf6ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_26.asset using Guid(18a455d5ae4afbe439ff332a7dadf6ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab5f30553c613cfefb8e9ada2508a0b') in 0.047367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_27.asset
+  artifactKey: Guid(1a63a745c2d195542b4a8585077657be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_27.asset using Guid(1a63a745c2d195542b4a8585077657be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f23c5f1bb8c507ebaf2390b5d112b7c') in 0.042222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_25.asset
+  artifactKey: Guid(ed72f75897b40ee40a7021d65e5ae66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_25.asset using Guid(ed72f75897b40ee40a7021d65e5ae66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13cddc0076153784770f66778bbee6a7') in 0.027957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_3.asset
+  artifactKey: Guid(4d7cd65ae41698342ad413579ca0713f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_3.asset using Guid(4d7cd65ae41698342ad413579ca0713f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28ee394a0f2d168adc21c02298a85d83') in 0.028147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_10.asset
+  artifactKey: Guid(b52829941f6265e47902f4e9a4cd3c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_10.asset using Guid(b52829941f6265e47902f4e9a4cd3c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acf4a206d9d3c52080207b6248045ac7') in 0.035790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_5.asset
+  artifactKey: Guid(d5c52ffdfec098a43b93979710a2c2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_5.asset using Guid(d5c52ffdfec098a43b93979710a2c2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56cb4976d28d001570632d97d7ad7ed8') in 0.101326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_9.asset
+  artifactKey: Guid(29140f34c156cf54ab52e7c2ff22b571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_9.asset using Guid(29140f34c156cf54ab52e7c2ff22b571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72913339740a5ee7985fe6032bc7a5c5') in 0.072959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_22.asset
+  artifactKey: Guid(8db92a8341683c844a0cd295a06e0a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_22.asset using Guid(8db92a8341683c844a0cd295a06e0a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5531e310301ed6e60e29e131b82c4695') in 0.099738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_1.asset
+  artifactKey: Guid(dbc45e2b179a2704aaea4c4e66b33d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_1.asset using Guid(dbc45e2b179a2704aaea4c4e66b33d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a63857dda5363233d2b921189b8087ab') in 0.038929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_14.asset
+  artifactKey: Guid(897e38015a0a4a64aa6241cd3ca1216c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_14.asset using Guid(897e38015a0a4a64aa6241cd3ca1216c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f279459aa2af4414961778abaa8a34c') in 0.031666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_20.asset
+  artifactKey: Guid(976fa210d46e7e742b61dc7d1bb89729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_20.asset using Guid(976fa210d46e7e742b61dc7d1bb89729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ebee078b058764b1e59076b101c352e') in 0.030485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_12.asset
+  artifactKey: Guid(2efed8d41e686db4e89483f72c0e55e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_12.asset using Guid(2efed8d41e686db4e89483f72c0e55e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a05659295c9921f349d5fbd0f29fa313') in 0.034443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_17.asset
+  artifactKey: Guid(f2b8b70b7ce5f3541b4e1756039885c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_17.asset using Guid(f2b8b70b7ce5f3541b4e1756039885c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e927b47c59f6d2b9d56aca17d3d09ff') in 0.042817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_15.asset
+  artifactKey: Guid(9ab81847174787748b6d06a7770a0f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_15.asset using Guid(9ab81847174787748b6d06a7770a0f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2219ca861ea914c25983664d514eefd2') in 0.046046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_11.asset
+  artifactKey: Guid(105e97837a6124247b7e94d9423b8533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_11.asset using Guid(105e97837a6124247b7e94d9423b8533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a556e41adb0a20c8da5ab8d3795acf71') in 0.047087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_13.asset
+  artifactKey: Guid(7b66b4891163a0f4e8cc1fa007384338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_13.asset using Guid(7b66b4891163a0f4e8cc1fa007384338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55e8bd658b79bd92c2428fea275af1f') in 0.039448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_18.asset
+  artifactKey: Guid(9c57e1a3ebe00364ab7c6c2551774e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_18.asset using Guid(9c57e1a3ebe00364ab7c6c2551774e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8725ed60a2865df3078149afe427d7d8') in 0.042825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_23.asset
+  artifactKey: Guid(12ef0e7039882b142b16dde69a85e37e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/tiles/Terrain (16x16)_23.asset using Guid(12ef0e7039882b142b16dde69a85e37e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc74ef41816b07904a7f0bbf6c6ef8a8') in 0.039941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 55.974536 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites
+  artifactKey: Guid(b2e6bb8738401d94aa0a5040b9ef4136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites using Guid(b2e6bb8738401d94aa0a5040b9ef4136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '792081faa9320efa08b7fd9edf6dc987') in 0.049361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.393688 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/cicekler.png
+  artifactKey: Guid(4441350c1a241fa4f9e21deb10545f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/cicekler.png using Guid(4441350c1a241fa4f9e21deb10545f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8773b9ac94d0b841ecd74369e4d210') in 0.429459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/strawberry.png
+  artifactKey: Guid(1aee87e20c9adbb478cc43ca9e65e3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/strawberry.png using Guid(1aee87e20c9adbb478cc43ca9e65e3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85dc27279e75bd9b065180d4c805a84') in 0.118799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/domates.png
+  artifactKey: Guid(a1f5ce9e0dfa82a4281a1c069be3ead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/domates.png using Guid(a1f5ce9e0dfa82a4281a1c069be3ead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040f34261f140ac81be1925f51b90ffb') in 0.106880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.125354 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/cicekler.png
+  artifactKey: Guid(4441350c1a241fa4f9e21deb10545f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/cicekler.png using Guid(4441350c1a241fa4f9e21deb10545f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989acc55b27397a4953e4853b55f0526') in 0.118850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.951311 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/domates.png
+  artifactKey: Guid(a1f5ce9e0dfa82a4281a1c069be3ead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/domates.png using Guid(a1f5ce9e0dfa82a4281a1c069be3ead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a5ee37427d5f7fde64750c4f7aecd5') in 0.098345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/strawberry.png
+  artifactKey: Guid(1aee87e20c9adbb478cc43ca9e65e3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/strawberry.png using Guid(1aee87e20c9adbb478cc43ca9e65e3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66878f91be35a4f2ffb5639225638fa4') in 0.087402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.011082 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/cicekler.png
+  artifactKey: Guid(4441350c1a241fa4f9e21deb10545f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/cicekler.png using Guid(4441350c1a241fa4f9e21deb10545f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '571a3cc3a060de73b966ad2a95899521') in 0.045115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.651868 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/cicekler.png
+  artifactKey: Guid(4441350c1a241fa4f9e21deb10545f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/cicekler.png using Guid(4441350c1a241fa4f9e21deb10545f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '909cc773fc00dab84017c709e5369455') in 0.128096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.594752 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/domates.png
+  artifactKey: Guid(a1f5ce9e0dfa82a4281a1c069be3ead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/domates.png using Guid(a1f5ce9e0dfa82a4281a1c069be3ead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5ee343a30437b2aef12a880ae33850') in 0.039042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.304347 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/domates.png
+  artifactKey: Guid(a1f5ce9e0dfa82a4281a1c069be3ead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/domates.png using Guid(a1f5ce9e0dfa82a4281a1c069be3ead6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10156df23c429f96ad6ab6a878b47e07') in 0.111109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.089855 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/strawberry.png
+  artifactKey: Guid(1aee87e20c9adbb478cc43ca9e65e3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/strawberry.png using Guid(1aee87e20c9adbb478cc43ca9e65e3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d93e55b4954550a0e04f4d45e76deed') in 0.081043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.721642 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/strawberry.png
+  artifactKey: Guid(1aee87e20c9adbb478cc43ca9e65e3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/strawberry.png using Guid(1aee87e20c9adbb478cc43ca9e65e3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d6821ccfa550ead58f3a64d9eb5802') in 0.296443 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014890 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.048 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3050ms)
+		BeginReloadAssembly (747ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (35ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (192ms)
+		EndReloadAssembly (1535ms)
+			LoadAssemblies (462ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (399ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (744ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (128ms)
+				ProcessInitializeOnLoadAttributes (502ms)
+				ProcessInitializeOnLoadMethodAttributes (73ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 10.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3915 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (192.6 KB). Loaded Objects now: 4438.
+Memory consumption went from 153.2 MB to 153.0 MB.
+Total: 12.819100 ms (FindLiveObjects: 0.441800 ms CreateObjectMapping: 0.297400 ms MarkObjects: 11.757100 ms  DeleteObjects: 0.320800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 134.947331 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Sprites/cicekler.png
+  artifactKey: Guid(4441350c1a241fa4f9e21deb10545f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Sprites/cicekler.png using Guid(4441350c1a241fa4f9e21deb10545f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ac088d63a68922c380341b11f873d5') in 0.120618 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011373 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.78 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.839 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4840ms)
+		BeginReloadAssembly (714ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (38ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (187ms)
+		EndReloadAssembly (3505ms)
+			LoadAssemblies (476ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1454ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (264ms)
+			SetupLoadedEditorAssemblies (1166ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (39ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (427ms)
+				ProcessInitializeOnLoadAttributes (626ms)
+				ProcessInitializeOnLoadMethodAttributes (55ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3915 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (192.6 KB). Loaded Objects now: 4441.
+Memory consumption went from 153.2 MB to 153.0 MB.
+Total: 6.578700 ms (FindLiveObjects: 0.321500 ms CreateObjectMapping: 0.135200 ms MarkObjects: 5.863000 ms  DeleteObjects: 0.257500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014251 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.678 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3679ms)
+		BeginReloadAssembly (443ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (20ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (113ms)
+		EndReloadAssembly (2882ms)
+			LoadAssemblies (319ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (787ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (154ms)
+			SetupLoadedEditorAssemblies (1453ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (48ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (247ms)
+				ProcessInitializeOnLoadAttributes (1017ms)
+				ProcessInitializeOnLoadMethodAttributes (106ms)
+				AfterProcessingInitializeOnLoad (32ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.00 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3915 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (192.6 KB). Loaded Objects now: 4444.
+Memory consumption went from 153.2 MB to 153.0 MB.
+Total: 6.637500 ms (FindLiveObjects: 0.361100 ms CreateObjectMapping: 0.185700 ms MarkObjects: 5.858500 ms  DeleteObjects: 0.229800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011126 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 17.36 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.633 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6635ms)
+		BeginReloadAssembly (534ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (23ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (140ms)
+		EndReloadAssembly (5320ms)
+			LoadAssemblies (529ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1393ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (367ms)
+			SetupLoadedEditorAssemblies (2501ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (99ms)
+				SetLoadedEditorAssemblies (51ms)
+				RefreshPlugins (18ms)
+				BeforeProcessingInitializeOnLoad (480ms)
+				ProcessInitializeOnLoadAttributes (1589ms)
+				ProcessInitializeOnLoadMethodAttributes (224ms)
+				AfterProcessingInitializeOnLoad (39ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (59ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 12.35 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3915 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (192.4 KB). Loaded Objects now: 4447.
+Memory consumption went from 153.2 MB to 153.1 MB.
+Total: 16.931100 ms (FindLiveObjects: 0.589500 ms CreateObjectMapping: 1.427200 ms MarkObjects: 14.412200 ms  DeleteObjects: 0.500600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011748 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 7.73 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.795 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5799ms)
+		BeginReloadAssembly (414ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (20ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (76ms)
+		EndReloadAssembly (4807ms)
+			LoadAssemblies (405ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (1128ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (299ms)
+			SetupLoadedEditorAssemblies (2298ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (71ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (23ms)
+				BeforeProcessingInitializeOnLoad (452ms)
+				ProcessInitializeOnLoadAttributes (1493ms)
+				ProcessInitializeOnLoadMethodAttributes (206ms)
+				AfterProcessingInitializeOnLoad (49ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (35ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 15.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3915 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (192.4 KB). Loaded Objects now: 4450.
+Memory consumption went from 153.3 MB to 153.1 MB.
+Total: 84.629700 ms (FindLiveObjects: 0.387500 ms CreateObjectMapping: 0.317300 ms MarkObjects: 83.678200 ms  DeleteObjects: 0.244900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011778 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\onrba\Desktop\Oyun Geliştirme\FarmLand\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 6.98 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.168 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5177ms)
+		BeginReloadAssembly (552ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (22ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (98ms)
+		EndReloadAssembly (3978ms)
+			LoadAssemblies (531ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1236ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (225ms)
+			SetupLoadedEditorAssemblies (1673ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (71ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (7ms)
+				BeforeProcessingInitializeOnLoad (376ms)
+				ProcessInitializeOnLoadAttributes (1026ms)
+				ProcessInitializeOnLoadMethodAttributes (151ms)
+				AfterProcessingInitializeOnLoad (41ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (43ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 60.99 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3915 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (192.5 KB). Loaded Objects now: 4453.
+Memory consumption went from 153.3 MB to 153.1 MB.
+Total: 20.281600 ms (FindLiveObjects: 0.398500 ms CreateObjectMapping: 0.292300 ms MarkObjects: 17.491400 ms  DeleteObjects: 2.097500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 
 
-public class UiHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
+public class uiHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     private bool mouse_over = false;
     [SerializeField] private int sidehud_state = 0;
