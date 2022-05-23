@@ -25,6 +25,10 @@ public class uiHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
             transform.position += new Vector3(-75f, 0f, 0f);
             sidehud_state = 1;
         }
+        
+        {
+
+        }
             
     }
 
