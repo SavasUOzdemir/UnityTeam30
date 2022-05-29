@@ -3,7 +3,9 @@ guid: e0e815c89f4d07947b1be98b22eed69e
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - lockbutton: {fileID: 3986398182631908274, guid: 6dd4ea22985b8bc4cbc10b4a278f152a, type: 3}
+  - unlockbutton: {fileID: 1822878281463534642, guid: 135705e8f4f4b874695d73727b3c0e68, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

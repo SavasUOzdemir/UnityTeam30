@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlayerMovement2 : MonoBehaviour
 {
-    private Animator anims;
     Rigidbody2D rb;
 
     float speed = 5f;
@@ -12,7 +11,6 @@ public class PlayerMovement2 : MonoBehaviour
     private void Awake() {
         
         rb = GetComponent<Rigidbody2D>();
-        anims = GetComponent<Animator>();
 
     }
 
@@ -29,8 +27,6 @@ public class PlayerMovement2 : MonoBehaviour
         float hiz = h * speed;								   
 											    	
         rb.velocity = new Vector2(hiz, rb.velocity.y);
-
-        anims.SetFloat("speedParam", h);
     }
 
     private void sinirlandirma ()
